@@ -13,6 +13,14 @@
     margin: 0;
     padding: 0;
     height: 100%;
+
+    line-height: 1.8;
+    color: rgba(0, 0, 0, .95);
+
+    font-family: "Hiragino Sans GB", "Microsoft Yahei Light", "Microsoft YaHei", STXihei, "Heiti SC", STHeiti,
+    "WenQuanYi Micro Hei", Helvetica, Arial, sans-serif;
+    background-color: #ddd;
+    word-wrap: break-word;
   }
 
   *,
